@@ -30,6 +30,7 @@
           <div class="col-md-12">
             @include('pages.header')
             @include('pages.experience')
+            @include('pages.portofolio')
           </div>
         </div>
       </div>
