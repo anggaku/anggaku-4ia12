@@ -5,6 +5,11 @@ html, body {
   overflow-x: hidden;
 }
 
+.nav-link.active {
+  color: white !important;
+  background-color: black;
+}
+
 .row-title {
   min-height: 650px;
 }

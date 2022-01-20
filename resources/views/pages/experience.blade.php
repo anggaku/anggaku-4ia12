@@ -1,4 +1,4 @@
-<section id="experience" class="py-5 bg-dark text-white">
+<section id="navexperience" class="py-5 bg-dark text-white">
     <div class="container">
       <h2 class="font-weight-light">
         EXPERIENCE
